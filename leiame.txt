@@ -1,6 +1,7 @@
 # artigoTeste
 artigo para o mini curso github
-1- Teste de comunicação
+1- Teste de comunicaÃ§Ã£o
+Estou escrevendo uma nova informacao nesta linha
 3 - deletei uma linha e estou colocando outra no lugar
 
 
