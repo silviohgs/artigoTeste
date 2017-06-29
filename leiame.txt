@@ -4,4 +4,6 @@ artigo para o mini curso github
 Estou escrevendo uma nova informacao nesta linha
 3 - deletei uma linha e estou colocando outra no lugar
 4 - fiz uma nova modificacao
+5 - nova alteracao pelo arquivo
+
 
